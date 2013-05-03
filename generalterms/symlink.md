@@ -16,3 +16,10 @@ Creates a symbolic link (ln stands for hard link; the -s flag stands for symboli
 ```
 
 Creates a link to /Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl via the shorter bin/subl.
+
+Now you can type
+```
+  #> bin/subl filename
+```
+
+To open the corresponding file in Sublime Text 2.
