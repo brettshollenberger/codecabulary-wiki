@@ -13,8 +13,7 @@ Relaunch Finder, and you'll now be able to navigate to your home user directory 
 Hiding your dotfiles again is as easy as:
 
 ```
-  #>
-defaults write com.apple.Finder AppleShowAllFiles FALSE
+  #> defaults write com.apple.Finder AppleShowAllFiles FALSE
 ```
 
 If you're new to dotfiles, you're in luck: developers love to share their configurations in libraries such as:
