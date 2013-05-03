@@ -21,7 +21,8 @@ You can now edit these files (they're blank by default) using your favorite text
 
 For information on setting up a [symlink](https://github.com/brettshollenberger/codecabulary/blob/master/generalterms/symlink.md) to Sublime Text, view [Codecabulary: Setting Up Sublime](https://github.com/brettshollenberger/codecabulary/blob/master/sublime/sublime.md).
 
-.h2 What the bash?
+What the bash?
+========================
 The .bash_profile is executed for login shells, meaning any Mac OSX Terminal Window by default. Most other graphic user interfaces (GUIs) that emulate terminals tend to use .bashrc instead.
 
 Since it can be a hassle to maintain two separate configuration files for login and non-login shells, you can source .bashrc from your .bash_profile by adding the following lines to your .bash_profile:
